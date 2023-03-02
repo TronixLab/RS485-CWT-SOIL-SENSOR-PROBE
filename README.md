@@ -33,8 +33,8 @@ CWT-SOIL sensor is for soil temperature and moisture, PH, conductivity (EC),meas
 
 ## Functions and Features
 1. The sensor compact design, easy to carry, installation, operation and maintenance.
-2. reasonable structure design, stainless steel probe life assurance.
-3. soil less affected areas are widely used.
+2. Reasonable structure design, stainless steel probe life assurance.
+3. Soil less affected areas are widely used.
 4. High measurement accuracy, reliable performance, ensure proper operation
 5. Fast response, high data transmission efficiency.
 
