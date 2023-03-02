@@ -4,6 +4,8 @@ CWT-SOIL sensor is for soil temperature and moisture, PH, conductivity (EC),meas
 ![sensor image](https://ae01.alicdn.com/kf/S566184c945674818ba35634f031a35f16.jpg)
 ![sensor image](https://ae01.alicdn.com/kf/Sc174b16225f74931b88e1473162fe338o.jpg)
 
+This repositoy contains Arduino code for RS-485 soil sensor probe interfacing. Read my documentation on [RS-485-RTU-Serial module with Arduino](https://github.com/TronixLab/ModBus-RTU-Temperature-Humidity-SHT20-Sensor) for your reference.
+
 ## Specifications
 |     Parameters    | Specification |
 | ----------------- | ------------- |
